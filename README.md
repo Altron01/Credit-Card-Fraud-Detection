@@ -236,7 +236,7 @@ ax.set_ylabel("Number of cases")
 
 
 
-![png](output_4_1.png)
+![png](notebook/output_4_1.png)
 
 
 <a name="ha"></a>
@@ -258,7 +258,7 @@ sns.heatmap(corrs, annot=True, linewidths=.5, ax=ax, cmap="YlGnBu")
 
 
 
-![png](output_6_1.png)
+![png](notebook/output_6_1.png)
 
 
 <a name="ud"></a>
@@ -293,7 +293,7 @@ ax.set_ylabel("Number of cases")
 
 
 
-![png](output_9_1.png)
+![png](notebook/output_9_1.png)
 
 
 
@@ -320,7 +320,7 @@ sns.heatmap(corrs, annot=True, linewidths=.5, ax=ax, cmap="YlGnBu")
 
 
 
-![png](output_12_1.png)
+![png](notebook/output_12_1.png)
 
 
 <a name="rrf"></a>
@@ -369,7 +369,7 @@ sns.heatmap(corrs, annot=True, linewidths=.5, ax=ax, cmap="YlGnBu")
 
 
 
-![png](output_15_1.png)
+![png](notebook/output_15_1.png)
 
 
 <a name="ba"></a>
@@ -392,91 +392,91 @@ for fea in features:
 ```
 
 
-![png](output_17_0.png)
+![png](notebook/output_17_0.png)
 
 
 
-![png](output_17_1.png)
+![png](notebook/output_17_1.png)
 
 
 
-![png](output_17_2.png)
+![png](notebook/output_17_2.png)
 
 
 
-![png](output_17_3.png)
+![png](notebook/output_17_3.png)
 
 
 
-![png](output_17_4.png)
+![png](notebook/output_17_4.png)
 
 
 
-![png](output_17_5.png)
+![png](notebook/output_17_5.png)
 
 
 
-![png](output_17_6.png)
+![png](notebook/output_17_6.png)
 
 
 
-![png](output_17_7.png)
+![png](notebook/output_17_7.png)
 
 
 
-![png](output_17_8.png)
+![png](notebook/output_17_8.png)
 
 
 
-![png](output_17_9.png)
+![png](notebook/output_17_9.png)
 
 
 
-![png](output_17_10.png)
+![png](notebook/output_17_10.png)
 
 
 
-![png](output_17_11.png)
+![png](notebook/output_17_11.png)
 
 
 
-![png](output_17_12.png)
+![png](notebook/output_17_12.png)
 
 
 
-![png](output_17_13.png)
+![png](notebook/output_17_13.png)
 
 
 
-![png](output_17_14.png)
+![png](notebook/output_17_14.png)
 
 
 
-![png](output_17_15.png)
+![png](notebook/output_17_15.png)
 
 
 
-![png](output_17_16.png)
+![png](notebook/output_17_16.png)
 
 
 
-![png](output_17_17.png)
+![png](notebook/output_17_17.png)
 
 
 
-![png](output_17_18.png)
+![png](notebook/output_17_18.png)
 
 
 
-![png](output_17_19.png)
+![png](notebook/output_17_19.png)
 
 
 
-![png](output_17_20.png)
+![png](notebook/output_17_20.png)
 
 
 
-![png](output_17_21.png)
+![png](notebook/output_17_21.png)
 
 
 ### Boxplots after outlier removal
@@ -519,91 +519,91 @@ for fea in features:
 ```
 
 
-![png](output_19_0.png)
+![png](notebook/output_19_0.png)
 
 
 
-![png](output_19_1.png)
+![png](notebook/output_19_1.png)
 
 
 
-![png](output_19_2.png)
+![png](notebook/output_19_2.png)
 
 
 
-![png](output_19_3.png)
+![png](notebook/output_19_3.png)
 
 
 
-![png](output_19_4.png)
+![png](notebook/output_19_4.png)
 
 
 
-![png](output_19_5.png)
+![png](notebook/output_19_5.png)
 
 
 
-![png](output_19_6.png)
+![png](notebook/output_19_6.png)
 
 
 
-![png](output_19_7.png)
+![png](notebook/output_19_7.png)
 
 
 
-![png](output_19_8.png)
+![png](notebook/output_19_8.png)
 
 
 
-![png](output_19_9.png)
+![png](notebook/output_19_9.png)
 
 
 
-![png](output_19_10.png)
+![png](notebook/output_19_10.png)
 
 
 
-![png](output_19_11.png)
+![png](notebook/output_19_11.png)
 
 
 
-![png](output_19_12.png)
+![png](notebook/output_19_12.png)
 
 
 
-![png](output_19_13.png)
+![png](notebook/output_19_13.png)
 
 
 
-![png](output_19_14.png)
+![png](notebook/output_19_14.png)
 
 
 
-![png](output_19_15.png)
+![png](notebook/output_19_15.png)
 
 
 
-![png](output_19_16.png)
+![png](notebook/output_19_16.png)
 
 
 
-![png](output_19_17.png)
+![png](notebook/output_19_17.png)
 
 
 
-![png](output_19_18.png)
+![png](notebook/output_19_18.png)
 
 
 
-![png](output_19_19.png)
+![png](notebook/output_19_19.png)
 
 
 
-![png](output_19_20.png)
+![png](notebook/output_19_20.png)
 
 
 
-![png](output_19_21.png)
+![png](notebook/output_19_21.png)
 
 
 
@@ -629,27 +629,27 @@ for i in final_features:
 ```
 
 
-![png](output_23_0.png)
+![png](notebook/output_23_0.png)
 
 
 
-![png](output_23_1.png)
+![png](notebook/output_23_1.png)
 
 
 
-![png](output_23_2.png)
+![png](notebook/output_23_2.png)
 
 
 
-![png](output_23_3.png)
+![png](notebook/output_23_3.png)
 
 
 
-![png](output_23_4.png)
+![png](notebook/output_23_4.png)
 
 
 
-![png](output_23_5.png)
+![png](notebook/output_23_5.png)
 
 
 <a name="od"></a>
@@ -674,7 +674,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 ```
 
 
-![png](output_25_0.png)
+![png](notebook/output_25_0.png)
 
 
 <a name="mc"></a>
@@ -751,7 +751,7 @@ disp.ax_.set_title('2-class Precision-Recall curve: '
 
 
 
-![png](output_29_2.png)
+![png](notebook/output_29_2.png)
 
 
 
